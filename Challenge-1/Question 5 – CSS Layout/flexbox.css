@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  
+}
+
+.left.fixed.box {
+  width: 100px;  
+  flex-shrink: 0; 
+}
+
+.middle.expanding.box {
+  flex: 1;        
+  min-width: 0;   
+}
+
+.right.fixed.box {
+  width: 100px;
+  flex-shrink: 0;
+}
