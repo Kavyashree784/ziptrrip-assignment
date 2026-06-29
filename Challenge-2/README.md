@@ -8,6 +8,11 @@ A full-stack task management application built as a Software Engineering Interns
 
 **Backend:** Node.js, Express 5, JSON file persistence (uuid)
 
+## Live Demo
+
+- **Frontend:** [https://todo-app-frontend-ecru-three.vercel.app](https://todo-app-frontend-ecru-three.vercel.app)
+- **Backend API:** [https://todo-app-backend-mwhn.onrender.com/api/todos](https://todo-app-backend-mwhn.onrender.com/api/todos)
+
 ## Features
 
 - Create, read, update, and delete tasks
