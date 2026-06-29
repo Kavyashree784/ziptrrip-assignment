@@ -1,0 +1,14 @@
+[
+  {
+    "id": "765f834a-6cc1-4e06-8382-9e1c82ac0436",
+    "title": "Ziptrrip Challenge 1",
+    "description": "complete 5 coding questins in javascript, html and css",
+    "priority": "high",
+    "status": "done",
+    "category": "company assingment",
+    "tags": [],
+    "dueDate": "2026-06-29",
+    "createdAt": "2026-06-28T18:35:05.060Z",
+    "updatedAt": "2026-06-28T18:35:30.366Z"
+  }
+]
