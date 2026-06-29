@@ -13,6 +13,18 @@ A full-stack task management application built as a Software Engineering Interns
 - **Frontend:** [https://todo-app-frontend-ecru-three.vercel.app](https://todo-app-frontend-ecru-three.vercel.app)
 - **Backend API:** [https://todo-app-backend-mwhn.onrender.com/api/todos](https://todo-app-backend-mwhn.onrender.com/api/todos)
 
+## Environment Variables
+
+To run this project locally, you will need to add the following environment variables.
+
+### Frontend (`client/.env`)
+- `VITE_API_URL` (default: `http://localhost:5000/api`) - URL for the backend API
+
+### Backend (`server/.env`)
+- `PORT` (default: `5000`) - Port for the Express server
+- `CLIENT_URL` (default: `http://localhost:5173`) - URL for the frontend application (used for CORS)
+- `NODE_ENV` (default: `development`) - Environment mode
+
 ## Features
 
 - Create, read, update, and delete tasks
